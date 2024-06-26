@@ -1,9 +1,9 @@
 {
-  "name": "typescript-starter",
+  "name": "library-practice",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@9.4.0",
-  "description": "A Typescript-starter from Tuhacrt",
+  "description": "A library practice repo of Tuhacrt",
   "author": "Tuhacrt <a067800497@gmail.com>",
   "license": "MIT",
   "keywords": [],
